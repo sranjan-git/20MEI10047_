@@ -1,7 +1,3 @@
-Here's a sample README file for your Average Calculator HTTP microservice:
-
----
-
 # Average Calculator HTTP Microservice
 
 ## Overview
@@ -19,8 +15,6 @@ This project is an Average Calculator microservice that exposes a REST API endpo
 - Calculates and returns the average of the numbers in the window.
 - Handles API timeouts and errors gracefully.
 - Quick response time, ensuring responses within 500ms.
-
-## Getting Started
 
 ### Prerequisites
 
@@ -137,4 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README file provides clear instructions and covers all the essential aspects of your project, making it easy for others to understand and use your microservice.
+
